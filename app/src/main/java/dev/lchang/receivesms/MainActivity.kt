@@ -25,9 +25,6 @@ class MainActivity : AppCompatActivity() {
         }else {
             receiveMsg()
         }
-
-
-
     }
 
     override fun onRequestPermissionsResult(
