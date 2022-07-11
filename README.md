@@ -11,4 +11,3 @@ Backend:
 https://replit.com/@luischang/smishinguesan#main.py
 
 ![alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/29695319/178358036-315e4869-223c-43b5-aba5-3c311883240d.png))
-
